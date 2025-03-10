@@ -1,0 +1,15 @@
+com\taskmanager\app\controllers\AuthController.class
+com\taskmanager\app\services\UserService.class
+com\taskmanager\app\TaskmanagerApplication.class
+com\taskmanager\app\config\CorsConfig.class
+com\taskmanager\app\config\JwtConfig.class
+com\taskmanager\app\controllers\TaskController.class
+META-INF\spring-configuration-metadata.json
+com\taskmanager\app\response\Response.class
+com\taskmanager\app\services\JwtUtil.class
+com\taskmanager\app\models\Task.class
+com\taskmanager\app\repositories\TaskRepository.class
+com\taskmanager\app\services\TaskService.class
+com\taskmanager\app\models\User.class
+com\taskmanager\app\ServletInitializer.class
+com\taskmanager\app\repositories\UserRepository.class

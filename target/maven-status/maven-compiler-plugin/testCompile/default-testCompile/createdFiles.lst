@@ -1,0 +1,12 @@
+com\taskmanager\app\TaskTest.class
+com\taskmanager\app\UserServiceTest.class
+com\taskmanager\app\ResponseTest.class
+com\taskmanager\app\AuthControllerTest.class
+com\taskmanager\app\UserRepositoryTest.class
+com\taskmanager\app\TaskServiceTest.class
+com\taskmanager\app\TaskControllerTest.class
+com\taskmanager\app\TaskmanagerApplicationTest.class
+com\taskmanager\app\TaskRepositoryTest.class
+com\taskmanager\app\UserTest.class
+com\taskmanager\app\JwtConfigTest.class
+com\taskmanager\app\JwtUtilTest.class

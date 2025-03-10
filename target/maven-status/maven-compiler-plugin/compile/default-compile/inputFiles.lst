@@ -1,0 +1,14 @@
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\repositories\UserRepository.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\config\JwtConfig.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\response\Response.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\controllers\AuthController.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\services\UserService.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\models\User.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\ServletInitializer.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\config\CorsConfig.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\services\TaskService.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\controllers\TaskController.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\TaskmanagerApplication.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\models\Task.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\repositories\TaskRepository.java
+D:\WorkspaceAux\taskmanager\src\main\java\com\taskmanager\app\services\JwtUtil.java
